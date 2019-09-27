@@ -1,0 +1,8 @@
+create table HealthCare
+(
+ID number(5),
+name varchar2(20),
+Gender varchar2(20),
+healthtype varchar2(30),
+records varchar2(70)
+);
